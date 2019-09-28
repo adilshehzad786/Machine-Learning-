@@ -11,5 +11,28 @@ This repository contains implementations of basic machine learning algorithms in
   6) Evaluate and Improve
   
   <strong> Libraries and tool for Machine Learning <strong>
-  1)
+  
+   1)Numpy
+   2)Pandas
+   3)Matplotlib
+   4)Scikit-learn
+   
+  Environment : <strong> Jupyter  & Anaconda <strong>
+  <strong>Type Jupyter Notebook in Anaconda CMD <strong>
+    
+    
+   <strong> go to https://www.kaggle.com/ and Signup   <strong>
+  
+  
+  
+    Feedback
+If you have a favorite algorithm that should be included or spot a mistake in one of the notebooks, please let me know by creating a new issue.
+
+    License
+
+See the LICENSE file for license rights.
+    
+  
+  
+   
   
